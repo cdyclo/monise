@@ -19,7 +19,7 @@
   <!-- /.login-logo -->
   <div class="card">
     <div class="card-body login-card-body">
-      <p class="login-box-msg">Sign in</p>
+      <p class="login-box-msg">Sign in add feature</p>
 
       <form action="admin/index2.php" method="post">
         <div class="input-group mb-3">
