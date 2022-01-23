@@ -14,7 +14,7 @@
 <div class="login-box">
   <div class="login-logo">
       <a href="index.php"><b>Admin</b> Monise</a>
-      <h5 class="login-box-msg">Monitoring & Evaluasi Sales Force</h5>
+      <h5 class="login-box-msg">Monitoring dan Evaluasi Sales Force</h5>
   </div>
   <!-- /.login-logo -->
   <div class="card">
